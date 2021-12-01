@@ -1,0 +1,31 @@
+h1{
+    color: brown;
+    background-color: burlywood;
+    text-align: center;
+}
+div{
+    height: 30%;
+    width: 40%;
+    border: solid 2px rebeccapurple;
+    background-color: saddlebrown;
+    margin: auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+div:hover{
+    background-color: salmon;
+    border: sienna 3px double;
+
+}
+div p{
+    display: none;
+}
+
+div:hover p{
+    display: block;
+    color: skyblue;
+    background-color: slateblue;
+    padding: 1em;
+    border-radius: 5px;
+}

@@ -1,0 +1,35 @@
+body{
+    background-color: saddlebrown;
+    color:white;
+}
+.masterbox{
+    margin: auto;
+    width: 50%;
+    height: 70%;
+    position: relative;
+    top: 100px;
+    background-color: rgb(184, 80, 7);
+    border-radius: 4em;
+}
+h1{
+    text-align: center;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 1em ;
+}
+p{
+    text-align: justify;
+
+}
+div{
+    width: 20%;
+    position: relative;
+}
+.material-icons{
+    font-size: 40px;
+    vertical-align: bottom;
+}
+.cajauno{
+    margin: auto;
+    padding: 5px;
+}

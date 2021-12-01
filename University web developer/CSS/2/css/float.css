@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    margin: 2em;
+}
+div{
+    width: 30%;
+    height: 100px;
+    overflow: auto;
+}
+.contenedoruno{
+    border: double 5px green;
+    float: left;
+}
+.contenedordos{
+    border: double 5px blueviolet;
+    float: right;
+}
+.contenedortres{
+    clear: both;
+    border: brown 5px double;
+    margin: auto;
+}

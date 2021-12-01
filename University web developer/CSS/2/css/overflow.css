@@ -1,0 +1,12 @@
+body{
+    background-color:slategrey;
+}
+h1{
+    text-align: center;
+}
+div{
+    height: 500px;
+    width: 30%;
+    margin: auto;
+    overflow: scroll;
+}

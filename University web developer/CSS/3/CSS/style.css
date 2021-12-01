@@ -1,0 +1,27 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: larger;
+}
+div.contenedor{
+    width: 30%;
+    height: 20%;
+    margin: auto;
+    border: 3px solid red;
+    padding: 1em;
+    color: blue;
+
+}
+div.contenedor.oculto:hover{
+    background-color: cadetblue;
+    color: black;
+}
+div.contenedor.oculto p{
+    display: none;
+}
+div.contenedor.oculto:hover p {
+    display: block;
+    background-color: brown;
+    padding: 1em;
+    color: burlywood;
+}
